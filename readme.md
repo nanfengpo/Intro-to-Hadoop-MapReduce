@@ -1,1 +1,1 @@
-This is the excercises for Introduction-to-Hadoop-MapReduce. If you want to install Hadoop with a virtual machine, you can refer to this [page](https://docs.google.com/document/d/1v0zGBZ6EHap-Smsr3x3sGGpDW-54m82kDpPKC2M6uiY/pub) for instructions.
+This is the excercises for Introduction-to-Hadoop-MapReduce. If you want to install Hadoop with a virtual machine, you can refer to this <a href="https://docs.google.com/document/d/1v0zGBZ6EHap-Smsr3x3sGGpDW-54m82kDpPKC2M6uiY/pub" target="_blank">page</a> for instructions.
